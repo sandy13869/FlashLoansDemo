@@ -174,11 +174,11 @@
 			]
 		},
 		"Flashloan/exchange/Exchange.sol": {
-			"keccak256": "0x7c3a4711595501b08db312b1f6b10fe06d4550cb00ec53679bc24c9aa1cd1e5c",
+			"keccak256": "0x95ea676a50a6abe69c48169a48b2dbba5e69e942d92a72504ac53008b37b54f3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ef9257ce409023f12d1801b3cc2969738fb049ed5e525e0b5effe5c1382a1805",
-				"dweb:/ipfs/QmPo3ysPhut5sFbe9L1vT1xs7wXcZS472bf8KvKZzKS4BB"
+				"bzz-raw://4f918e1c3a0784ada7a9b3b32bf2d78c32e4ac774744a142132430d387529fee",
+				"dweb:/ipfs/QmPBjPZJpofFXL1s3wRk6vMWWVviCYK3ptUohL2MJqGVC3"
 			]
 		}
 	},

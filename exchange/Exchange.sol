@@ -7,13 +7,13 @@ import {IERC20} from "@aave/core-v3/contracts/dependencies/openzeppelin/contract
 contract Exchange {
     address payable public owner;
 
-    // Aave ERC20 Token addresses on Sepolia network
+    // Aave ERC20 Token addresses on Mumbai network
     
     address private immutable usdcAddress =
-        0xda9d4f9b69ac6C22e444eD9aF0CfC043b7a7f53f;
+        0xe9DcE89B076BA6107Bb64EF30678efec11939234;
 
     address private immutable daiAddress =
-        0x68194a729C2450ad26072b3D33ADaCbcef39D574;
+        0xF14f9596430931E177469715c591513308244e8F;
 
     IERC20 private dai;
     IERC20 private usdc;
